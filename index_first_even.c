@@ -1,4 +1,4 @@
-#include "main.h"
+#include "index_first_even.h"
 
 int index_first_even(int arr[], int len){
     for(int i = 0; i < len; i++){

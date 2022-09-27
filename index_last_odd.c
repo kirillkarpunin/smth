@@ -1,4 +1,4 @@
-#include "main.h"
+#include "index_last_odd.h"
 
 int index_last_odd(int arr[], int len){
     int ans = -1;

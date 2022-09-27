@@ -1,5 +1,8 @@
 #include <stdio.h>
-#include "main.h"
+#include "index_first_even.h"
+#include "index_last_odd.h"
+#include "sum_between_even_odd.h"
+#include "sum_before_even_and_after_odd.h"
 
 #define MAX_LEN 100
 

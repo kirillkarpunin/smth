@@ -1,5 +1,7 @@
 #include <stdlib.h>
-#include "main.h"
+#include "sum_between_even_odd.h"
+#include "index_first_even.h"
+#include "index_last_odd.h"
 
 int sum_between_even_odd(int arr[], int len){
     int beg = index_first_even(arr, len);
